@@ -1,0 +1,9 @@
+C:\Users\Jeppe\Desktop\ThreadAssignement 2\SwimmingPool\bin\Debug\SwimmingPool.exe.config
+C:\Users\Jeppe\Desktop\ThreadAssignement 2\SwimmingPool\bin\Debug\SwimmingPool.exe
+C:\Users\Jeppe\Desktop\ThreadAssignement 2\SwimmingPool\bin\Debug\SwimmingPool.pdb
+C:\Users\Jeppe\Desktop\ThreadAssignement 2\SwimmingPool\obj\Debug\SwimmingPool.csprojResolveAssemblyReference.cache
+C:\Users\Jeppe\Desktop\ThreadAssignement 2\SwimmingPool\obj\Debug\SwimmingPool.Form1.resources
+C:\Users\Jeppe\Desktop\ThreadAssignement 2\SwimmingPool\obj\Debug\SwimmingPool.Properties.Resources.resources
+C:\Users\Jeppe\Desktop\ThreadAssignement 2\SwimmingPool\obj\Debug\SwimmingPool.csproj.GenerateResource.Cache
+C:\Users\Jeppe\Desktop\ThreadAssignement 2\SwimmingPool\obj\Debug\SwimmingPool.exe
+C:\Users\Jeppe\Desktop\ThreadAssignement 2\SwimmingPool\obj\Debug\SwimmingPool.pdb
